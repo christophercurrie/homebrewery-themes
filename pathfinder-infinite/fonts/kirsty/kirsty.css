@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Kirsty';
+    src: url('kirsty_bd_it.eot');
+    src: url('kirsty_bd_it.eot?#iefix') format('embedded-opentype'),
+         url('kirsty_bd_it.woff2') format('woff2'),
+         url('kirsty_bd_it.woff') format('woff'),
+         url('kirsty_bd_it.ttf') format('truetype'),
+         url('kirsty_bd_it.svg#kirstybold_italic') format('svg');
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Kirsty';
+    src: url('kirsty_rg_it.eot');
+    src: url('kirsty_rg_it.eot?#iefix') format('embedded-opentype'),
+         url('kirsty_rg_it.woff2') format('woff2'),
+         url('kirsty_rg_it.woff') format('woff'),
+         url('kirsty_rg_it.ttf') format('truetype'),
+         url('kirsty_rg_it.svg#kirstyitalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Kirsty';
+    src: url('kirsty_rg.eot');
+    src: url('kirsty_rg.eot?#iefix') format('embedded-opentype'),
+         url('kirsty_rg.woff2') format('woff2'),
+         url('kirsty_rg.woff') format('woff'),
+         url('kirsty_rg.ttf') format('truetype'),
+         url('kirsty_rg.svg#kirstyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Kirsty';
+    src: url('kirsty_bd.eot');
+    src: url('kirsty_bd.eot?#iefix') format('embedded-opentype'),
+         url('kirsty_bd.woff2') format('woff2'),
+         url('kirsty_bd.woff') format('woff'),
+         url('kirsty_bd.ttf') format('truetype'),
+         url('kirsty_bd.svg#kirstybold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
