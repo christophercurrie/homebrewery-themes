@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata></metadata>
+<defs>
+<font id="pathfinder-iconsregular" horiz-adv-x="0" >
+<font-face units-per-em="2048" ascent="1920" descent="-128" />
+<missing-glyph horiz-adv-x="1024" />
+<glyph d="M0 0z" />
+<glyph d="M0 0z" />
+<glyph horiz-adv-x="682" />
+<glyph d="M0 0z" />
+<glyph unicode=" " horiz-adv-x="1024" d="M0 0z" />
+<glyph unicode="-" d="M0 0z" />
+<glyph unicode="[" d="M0 0z" />
+<glyph unicode="]" d="M0 0z" />
+<glyph unicode="a" d="M0 0z" />
+<glyph unicode="c" d="M0 0z" />
+<glyph unicode="e" d="M0 0z" />
+<glyph unicode="f" d="M0 0z" />
+<glyph unicode="h" d="M0 0z" />
+<glyph unicode="i" d="M0 0z" />
+<glyph unicode="n" d="M0 0z" />
+<glyph unicode="o" d="M0 0z" />
+<glyph unicode="r" d="M0 0z" />
+<glyph unicode="s" d="M0 0z" />
+<glyph unicode="t" d="M0 0z" />
+<glyph unicode="w" d="M0 0z" />
+<glyph unicode="&#x25fc;" horiz-adv-x="1000" d="M0 0z" />
+</font>
+</defs></svg> 
